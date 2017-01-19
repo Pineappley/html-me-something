@@ -1,0 +1,35 @@
+body {
+    background-color: #D2C77D;
+}
+
+#header {
+    margin-left: 110px;
+    margin-right: 110px;
+    background-color: #F7F9C8;
+    position: relative;
+    text-align: center;
+    font-family: "Trebuchet MS", Helvetica, sans-serif;
+    color: #275B46;
+}
+main {
+    text-align: center;
+    margin-left: 110px;
+    margin-right: 110px;
+    background-color: #F7F9C8;
+}
+#section {
+    margin: 60px;
+}
+#subsection {
+    margin-top: 50px;
+    margin-bottom:50px;
+}
+
+h2 {
+    color: #275B46;
+    font-family: "Trebuchet MS", Helvetica, sans-serif;
+    text-align: center;
+}
+h3 {
+    font-family: "Trebuchet MS", Helvetica, sans-serif;
+}
