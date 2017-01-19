@@ -12,6 +12,8 @@ body {
     color: #275B46;
 }
 main {
+    padding-top: 50px;
+    padding-bottom: 50px;
     text-align: center;
     margin-left: 110px;
     margin-right: 110px;
