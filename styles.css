@@ -35,3 +35,7 @@ h2 {
 h3 {
     font-family: "Trebuchet MS", Helvetica, sans-serif;
 }
+.subhead {
+    border-style: double;
+    border-color: #275B46;
+}
